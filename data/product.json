@@ -1,0 +1,197 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":1,
+             "product_name":"dishwasher",
+             "imgSrc":"images/dishwasher.jpg",
+             "price":7000
+             },
+             {
+             "product_id":2,
+             "product_name":"Iron box",
+             "imgSrc":"images/Iron box.png",
+             "price":2500
+             },
+             {
+             "product_id":3,
+             "product_name":"juicer",
+             "imgSrc":"images/juicer.webp",
+             "price":2300
+             },
+             {
+             "product_id":4,
+             "product_name":"TV",
+             "imgSrc":"images/TV.webp",
+             "price":20000
+             },
+             {
+             "product_id":5,
+             "product_name":"washing machine",
+             "imgSrc":"images/washing_machine.png",
+             "price":15000
+             },
+             {
+             "product_id":6,
+             "product_name":"chair",
+             "imgSrc":"images/chair.png",
+             "price":1800
+             }]
+},
+{
+"filter_id":2,
+"products":[{
+             "product_id":7,
+             "product_name":"sunglasses",
+             "imgSrc":"images/sunglasses.webp",
+             "price":599
+             },
+             {
+             "product_id":8,
+             "product_name":"shirt",
+             "imgSrc":"images/shirt.webp",
+             "price":999
+             },
+             {
+             "product_id":9,
+             "product_name":"men ring",
+             "imgSrc":"images/men ring.webp",
+             "price":499
+             },
+             {
+             "product_id":10,
+             "product_name":"mens watch",
+             "imgSrc":"images/mens watch.webp",
+             "price":2999
+             },
+             {
+             "product_id":11,
+             "product_name":"shoes",
+             "imgSrc":"images/shoes.webp",
+             "price":1399
+             },
+             {
+             "product_id":12,
+             "product_name":"jeans",
+             "imgSrc":"images/jeans.webp",
+             "price":699
+             }]
+  },
+  {
+"filter_id":3,
+"products":[{
+             "product_id":13,
+             "product_name":"shalvar",
+             "imgSrc":"images/shalvar.webp",
+             "price":999
+             },
+             {
+             "product_id":14,
+             "product_name":"women watch",
+             "imgSrc":"images/women watch.jpg",
+             "price":799
+             },
+             {
+             "product_id":15,
+             "product_name":"makeup-products",
+             "imgSrc":"images/makeup-products.jpg",
+             "price":4999
+             },
+             {
+             "product_id":16,
+             "product_name":"heels",
+             "imgSrc":"images/heels.webp",
+             "price":799
+             },
+             {
+             "product_id":17,
+             "product_name":"dress",
+             "imgSrc":"images/dress.jpg",
+             "price":1599
+             },
+             {
+             "product_id":18,
+             "product_name":"bangle",
+             "imgSrc":"images/bangle.jpg",
+             "price":500
+             }]
+  },
+  {
+"filter_id":4,
+"products":[{
+             "product_id":19,
+             "product_name":"chicken briyani",
+             "imgSrc":"images/chicken briyani.webp",
+             "price":200
+             },
+             {
+             "product_id":20,
+             "product_name":"dal makhni",
+             "imgSrc":"images/dal-makhni.png",
+             "price":125
+             },
+             {
+             "product_id":21,
+             "product_name":"idly",
+             "imgSrc":"images/idly.png",
+             "price":80
+             },
+             {
+             "product_id":22,
+             "product_name":"parota",
+             "imgSrc":"images/parota.jpg",
+             "price":70
+             },
+             {
+             "product_id":23,
+             "product_name":"fish fry",
+             "imgSrc":"images/fish fry.jpg",
+             "price":250
+             },
+             {
+             "product_id":24,
+             "product_name":"puri",
+             "imgSrc":"images/puri.jpg",
+             "price":99
+             }]
+  },
+  {
+"filter_id":5,
+"products":[{
+             "product_id":25,
+             "product_name":"Dal",
+             "imgSrc":"images/paruppu.jpg",
+             "price":500
+             },
+             {
+             "product_id":26,
+             "product_name":"fruit",
+             "imgSrc":"images/fruit.webp",
+             "price":160
+             },
+             {
+             "product_id":27,
+             "product_name":"dry-fruits",
+             "imgSrc":"images/nuts.jpg",
+             "price":1200
+             },
+             {
+             "product_id":28,
+             "product_name":"sunflower oil",
+             "imgSrc":"images/Sunflower-Oil.png",
+             "price":150
+             },
+             {
+             "product_id":29,
+             "product_name":"dry-fruits",
+             "imgSrc":"images/dry-fruits.webp",
+             "price":400
+             },
+             {
+             "product_id":30,
+             "product_name":"vegtable",
+             "imgSrc":"images/veg1.png",
+             "price":180
+             }]
+  }
+  ]
