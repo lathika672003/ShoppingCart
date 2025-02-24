@@ -1,4 +1,4 @@
-Online 
+Online Shopping Cart Website
 
 Tech used:HTML,CSS,Javascript,Bootstrap 4;
 
